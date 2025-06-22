@@ -1,0 +1,13 @@
+22/6/25
+Came up with the idea to make a web app didnt know what it would be about so i started finding inspiration asked friends,gpt etc came uo withe idea it should be what most big companies use like how do they handle their taks
+so then i asked for a site to make all these got recommendations of Render,Vercel,Netlify etc ran through some deployment issues with netlify and somewhere on render. turns out it was my package.json file all long, so i ran build did all the protocols and boom we were LIVE,
+Learned alot Vite how to configure them,fix errors and write mine very interesting experince on React.js even if it was my first time using it.
+
+Tech Stack
+React 19 (with Vite)
+TypeScript
+Vite as the bundler
+Deployed on Vercel
+
+So to keep things short or summary this project was more than just building features - it was about solving or you could say creating as a real dev, Every error i fixed made me a stronger developer.
+MORE COMING SOON STAY TUNED.
